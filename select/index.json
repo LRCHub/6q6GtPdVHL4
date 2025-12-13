@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "悲しみがとまらない　I CAN'T STOP THE LONELINESS",
+  "base_artist": "杏里",
+  "createdAt": "2025-12-13T17:17:59.876270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/01_悲しみがとまらない_杏里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悲しみがとまらない I CAN'T STOP THE LONELINESS",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/02_悲しみがとまらない_I_CAN'T_STOP_THE_LONELINESS_杏里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悲しみがとまらない I CAN'T STOP THE LONELINESS",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/03_悲しみがとまらない_I_CAN'T_STOP_THE_LONELINESS_Anri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/04_悲しみがとまらない_Anri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/05_悲しみがとまらない_杏里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "鮎川麻弥",
+      "has_synced": false,
+      "path": "select/06_悲しみがとまらない_鮎川麻弥.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/07_悲しみがとまらない_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "悲しみがとまらない  I Can't Stop The Loneliness",
+      "artist": "Anri 杏里",
+      "has_synced": true,
+      "path": "select/08_悲しみがとまらない_I_Can't_Stop_The_Loneliness_Anri_杏里.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/09_悲しみがとまらない_杏里.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/10_悲しみがとまらない_杏里.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "悲しみがとまらない　I CAN'T STOP THE LONELINESS - Kanashimi ga Tomaranai I CAN'T STOP THE LONELINESS",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/11_悲しみがとまらない_I_CAN'T_STOP_THE_LONELINESS_-_Kanashimi_ga_Tomaranai_I_CAN'T_STOP_THE__Anri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "悲しみがとまらない　I CAN'T STOP THE LONELINESS",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/12_悲しみがとまらない_I_CAN'T_STOP_THE_LONELINESS_Anri.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/13_悲しみがとまらない_杏里.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "悲しみがとまらない (I CANT STOP THE LONELINESS)",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/14_悲しみがとまらない_(I_CANT_STOP_THE_LONELINESS)_Anri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "悲しみがとまらない I can't stop the loneliness (Kanashimi ga tomaranai)",
+      "artist": "Anri",
+      "has_synced": false,
+      "path": "select/15_悲しみがとまらない_I_can't_stop_the_loneliness_(Kanashimi_ga_tomaranai)_Anri.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "悲しみがとまらない （I Can't Stop The Loneliness）",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/16_悲しみがとまらない_(I_Can't_Stop_The_Loneliness)_Anri.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "悲しみがとまらない",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/17_悲しみがとまらない_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "悲しみがとまらない (Kanashimi ga Tomaranai)",
+      "artist": "Mami Ayukawa",
+      "has_synced": false,
+      "path": "select/18_悲しみがとまらない_(Kanashimi_ga_Tomaranai)_Mami_Ayukawa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悲しみがとまらない",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/pl_01_悲しみがとまらない_杏里.txt"
+    }
+  ]
+}
