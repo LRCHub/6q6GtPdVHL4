@@ -1,0 +1,40 @@
+# 杏里 – 悲しみがとまらない　I CAN'T STOP THE LONELINESS
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I Can¥t Stop The Loneliness
+こらえ切れず 悲しみがとまらない
+I Can¥t Stop The Loneliness
+どうしてなの 悲しみがとまらない
+
+あなたに彼女 会わせたことを
+わたし今も悔やんでいる
+ふたりはシンパシイ 感じてた
+昼下がりのカフェテラス
+
+あの日電話が ふいに鳴ったの
+あの人と 別れてと 彼女から
+
+I Can¥t Stop The Loneliness
+どうしてなの 悲しみがとまらない
+
+誤解だよって あなたは笑う
+だけどkissはウソのにおい
+抱きしめられて 気づいたの
+愛がここにないことを
+
+恋はちいさな アラシみたいに
+友だちも 恋人も 奪って
+
+I Can¥t Stop The Loneliness
+彼を返して 悲しみがとまらない
+
+I Can¥t Stop The Loneliness
+だれか助けて 悲しみがとまらない
+
+I Can¥t Stop The Loneliness
+こらえ切れず 悲しみがとまらない
+I Can¥t Stop The Loneliness
+どうしてなの 悲しみがとまらない
+```
